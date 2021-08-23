@@ -1,4 +1,4 @@
-package digitalinnovation.one.experts.shoppingcart.model;
+package br.com.exp.shoppingcart.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.redis.core.RedisHash;
