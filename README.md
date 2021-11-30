@@ -1,18 +1,19 @@
-## Projeto com arquitetura baseada em microsserviços usando Spring Cloud  
+# Projeto com arquitetura baseada em microsserviços usando Spring Cloud  
 
-Software baseado em microsserviços, desenvolvido em *bootcamp* do banco Santander, trilha Java, realizado pela Digital Innovation One, sob orientação do especialista professor [Oswaldo Neto](https://www.linkedin.com/in/omneto/). 
+:computer: Software desenvolvido com base em __microsserviços__, de forma a demonstrar o poder do Java para a implementação das diversas camadas de uma arquitetura de microsserviços.
 
-Durante o projeto, foi desenvolvido:
-- Como devem ser estruturados microsserviços,
-- Configuração de server e clients,
-- A importância de configurar o servidor de maneira centralizada, para todos os microsserviços clientes, 
-- A criação um *service discovery*, para a comunicação entre todos os microsserviços,
-- A criação de um *gateway*, para que o *front-end* possa se comunicar com todos os microsserviços, sem necessariamente precisar conhecer todos eles.
-- A criação de projetos bastante funcionais utilizando Spring, Spring Cloud e docker para simular cenários onde muitos microsserviços "rodam" simultanemanente.
+- __Estruturação__ de microsserviços
+- [__Configuração__](https://github.com/oswaldoneto/dio-experts-config)  de server e clients*
+- __Centralização__ do servidor para todos os microsserviços clientes 
+- Utilização de __service discovery__ e  __gateway__ para a comunicação entre todos os microsserviços, sem necessariamente precisar conhecer todos eles, implementando o padrão de __API Gateway__
+- Utilização do __Docker__ para simular cenários onde muitos microsserviços "rodam" simultanemanente.    
 
-O projeto utiliza as configurações armazenadas no git do orientador, encontradas [neste endereço](https://github.com/oswaldoneto/dio-experts-config).
+[<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_Wu26f9tMuFr2DUnSJm_jNZ1wbAodnKO_A&usqp=CAU" width = "auto" height = "28px">](https://en.wikipedia.org/wiki/Microservices)
+[<img src = "https://encurtador.com.br/iuCOQ" width = "auto" height = "28px">]()
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-&nbsp;
+ 
 
-> Projeto concluído em 08/2021.
+Projeto concluído em __08/2021__ :green_circle: 
 
