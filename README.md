@@ -10,7 +10,6 @@
 - Orientação do especialista professor [Oswaldo Neto](https://www.linkedin.com/in/omneto/) da [Digital Innovation One](https://web.dio.me/) 
 
 [<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_Wu26f9tMuFr2DUnSJm_jNZ1wbAodnKO_A&usqp=CAU" width = "auto" height = "28px">](https://en.wikipedia.org/wiki/Microservices)
-[<img src = "https://encurtador.com.br/iuCOQ" width = "auto" height = "28px">]()
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
